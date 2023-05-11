@@ -1,3 +1,5 @@
+%For PSOCT only
+
 clearvars
 
 pathname = uigetdir('D:\new_bovine\4');
