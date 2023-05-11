@@ -1,4 +1,5 @@
 %For PSOCT only
+%For santec OCT only
 
 clearvars
 
