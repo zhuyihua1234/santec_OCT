@@ -1,5 +1,5 @@
 % This code calculates average intensity of stacked OCT image inside a
-% 500um box
+% 400um box
 % Instructions: Set current folder to folder containing the ".fig" file
     % Change the name of the file to your ".fig" file
     % Click Run
