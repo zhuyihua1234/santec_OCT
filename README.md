@@ -8,3 +8,5 @@ Data Conversion for Santec Swept-Source OCT systems
 "FindMedianIntensity_From_Dragonfly_Population_Profile.m": Automatically identify the median intensity from histogram saved by ORS Dragonfly. 
 
 "OCT_Bscan_getinfo.m": Analysis of image saved by B-scan 2D mode of Santec OCT system.
+
+"Stacked_OCT_img_getinfo.m": Calculate average intensity inside 500um boxed ROI for stacked OCT image
