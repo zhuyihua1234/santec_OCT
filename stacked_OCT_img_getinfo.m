@@ -22,7 +22,7 @@ set(gcf, 'Position', get(0,'Screensize')); % Maximize figure.
 % Ask user to draw Square.
 message = sprintf('Drag the box to the Lesion ROI.\nDo not change the size of the box');
 uiwait(msgbox(message));
-h = imrect(gca,[10 10 21 21]);
+h = imrect(gca,[10 10 17 17]);
 position = wait(h);
 
 % Create a binary image ("mask") from the ROI object.
