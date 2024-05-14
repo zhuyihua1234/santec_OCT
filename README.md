@@ -16,6 +16,11 @@ Data Conversion for Santec Swept-Source OCT systems
 ***  Image Spacing (uncorrected for refraction index in enamel):  X: 23.438 um, Y: 23.438 um, Z: 9.524 um
 ***  Image Spacing (corrected for refractive index in enamel): X: 23.438 um, Y: 23.438 um, Z: 15.2384 um
 
+*** Protocol for mass-conversion of CP-OCT images
+*** 1. Use "CPOCT_3Dconversion_batchprocessing.m"
+*** 2. Go to folder that contains all the CP-OCT raw image files awaiting for conversion
+*** 3. Click Run
+
 
 "FindMedianIntensity_From_Dragonfly_Population_Profile.m": Automatically identify the median intensity from histogram saved by ORS Dragonfly. 
 
