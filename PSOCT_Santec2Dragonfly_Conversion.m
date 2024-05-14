@@ -3,7 +3,7 @@
 
 clearvars
 
-pathname = uigetdir('D:\new_bovine\4');
+pathname = uigetdir('C:\Users\zhuyi\Downloads\P20_5_analysis\P20_5_analysis\P20_5_OCT_post2A');
 
 initial = 1;
 final = 250;
